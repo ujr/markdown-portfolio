@@ -1,1 +1,3 @@
-Replace this with a link to your a GitHub or social media profile.
+- Link to a Website: [GitHub](http://github.com)
+- Link to a repo: [Training Kit](https://github.com/github/training-kit)
+- Link to LoC: [](https://github.com/ujr/minitools/blob/master/src/isbnck.c#L140)
