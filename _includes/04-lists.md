@@ -1,0 +1,3 @@
+- coffee in the morning
+- coffee after lunch
+- no coffee in the evening, sigh
